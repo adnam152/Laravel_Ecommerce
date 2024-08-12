@@ -1,3 +1,11 @@
+# Clone
+```
+git clone https://github.com/adnam152/Laravel_Ecommerce.git
+```
+```
+cd .\Laravel_Ecommerce
+```
+
 # Install vendor
 ```
 composer update
@@ -15,7 +23,7 @@ php artisan key:generate
 php artisan serve
 ```
 
-# Controller Method
+<!-- # Controller Method
  - 
    <!-- @return: path <String> | false -->
    ```
@@ -67,4 +75,4 @@ php artisan serve
    <!-- @target: Thẻ select -->
    ```
    onChangeSort(target)
-   ```
+   ``` -->
